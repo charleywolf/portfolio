@@ -19,7 +19,7 @@ export default function Home() {
         </div>
 
         <div className="flex gap-3 items-center w-full justify-center">
-          <a
+          {/* <a
             target="_blank"
             rel="noopener noreferrer"
             href="https://docs.google.com/document/d/1RVn4WoyIoHOjW-YhvVC3Z2yAuLjsj0fY/edit?usp=sharing&ouid=107383725841058213299&rtpof=true&sd=true"
@@ -28,7 +28,7 @@ export default function Home() {
               cv
             </h2>
           </a>
-          <span>&bull;</span>
+          <span>&bull;</span> */}
           <h2 className="brand text-3xl">projects</h2>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4">
