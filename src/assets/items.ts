@@ -53,7 +53,7 @@ export const items: Item[] = [
     url: "https://github.com/charleywolf/mixture",
   },
   {
-    index: 5,
+    index: 6,
     name: "StickTime App",
     image: sticktimeapp,
     description:
@@ -61,7 +61,7 @@ export const items: Item[] = [
     url: "https://sticktimeapp.vercel.app",
   },
   {
-    index: 6,
+    index: 5,
     name: "Grade Viewer",
     image: gradeviewer,
     description:
