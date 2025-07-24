@@ -26,7 +26,7 @@ export const items: Item[] = [
     image: raiderpanther,
     description:
       "Custom website created for Todd Sliss at the Raider/Panther Reporter. Custom features of this site include an admin portal for Todd to manage his issues, a full database integrated with user accounts and subscriptions, and Cloudflare R2 for storage of his issues which are large PDFs.",
-    url: "https:/www.raiderpanther.com",
+    url: "https://www.raiderpanther.com",
   },
   {
     index: 1,

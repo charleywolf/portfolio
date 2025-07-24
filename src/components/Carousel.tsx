@@ -21,6 +21,7 @@ export default function Carousel({ images }: { images: StaticImageData[] }) {
           dynamicBullets: true,
         }}
         navigation={true}
+        lazyPreloadPrevNext={2}
         modules={[Pagination, Navigation]}
       >
         {images.map((img, index) => (
